@@ -20,3 +20,4 @@ https://github.com/DennisSc/ovpn-dashboard
 https://github.com/Neal/server-status
 https://github.com/RetroShare/ChatServer-Frontend
 https://github.com/Hood3dRob1n/SQLMAP-Web-GUI
+https://github.com/ayushsharma82/EasyUI
