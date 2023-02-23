@@ -1,0 +1,54 @@
+{
+    "namespace": "afk",
+    "hold": {
+        "type": "image",
+        "layer": 99999,
+        "fill": true,
+        "size": [ "20000%", "20000%" ],
+        "alpha": "$t",
+   "$background_hoverstate_texture_swap|default": "",
+    "variables": [
+      {
+        "requires": "$default_state",
+        "$background_hoverstate_texture_swap": "textures/ui/blank"
+      },
+      {
+        "requires": "$hover_state",
+        "$background_hoverstate_texture_swap": "textures/ui/black"
+      },
+      {
+        "requires": "$pressed_state",
+        "$background_hoverstate_texture_swap": "textures/ui/black"
+      },
+      {
+        "requires": "$locked_state",
+        "$background_hoverstate_texture_swap": "textures/ui/ribbon_bar_text_background_hover"
+      }
+    ],
+    "texture": "$background_hoverstate_texture_swap"
+    },
+    "bottom_middle": {
+        "type": "panel",
+        "size": [ "100%", "100%" ],
+        "controls": [
+            {
+                "a@common_buttons.dark_content_button": { // a
+                    "$button_content":"afk.hold",
+                    "$pressed_button_name": "button.slot_0",
+ "$button_active": "#swap_left_active",
+                    "size": [ 28, 12 ],
+      "$focus_id": "leftc", 
+                    "anchor_from": "top_right",
+                    "anchor_to": "top_right",
+    "focus_change_up": "upc",
+    "focus_change_down": "downc",
+    "focus_change_right": "leftc",
+    "focus_change_left": "rightc",
+                    "offset": [ -4, 3 ],
+                    "layer": 40,
+                    "alpha": "$t"
+                }
+            }
+            ]
+    }
+}

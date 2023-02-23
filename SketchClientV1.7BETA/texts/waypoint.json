@@ -1,0 +1,17 @@
+{
+  "format_version": "1.10.0",
+  "animation_controllers": {
+    "controller.animation.waypoint": {
+	  "initial_state": "default",
+      "states": {
+        "default": {
+		  "transitions": [ { "is_holding": "query.block_face/variable.attack_time/query.life_time/query.approx_eq == 1" } ]
+        },
+        "is_holding": {
+          "particle_effects": [ { "effect": "waypoint", "locator": "head" } ],
+		  "transitions": [ { "default": "query.block_face/variable.attack_time/query.life_time/query.approx_eq == 0" } ]
+        }
+      }
+    }
+  }
+}

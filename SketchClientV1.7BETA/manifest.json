@@ -1,0 +1,62 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§bSketch§eClient§dV1.7 §rBy §bChainsketch - §dV1.7 §rPack Icon By §bImaCookie - §bSketch§eClient §ris Designed to be added to any pack as it does not change any features or removes them this means you can put your texture packs on with this pack and have the textures you want and Still have features like Controller Keystrokes or FreeCam- Note: Add this pack above your texture pack to get all the features Dont steal code or use this in your personal pack and dont use with other clients Restart your game once youve added the client to your game\n \nThis pack §eIncludes§r | FreeCam | The Waypoint | Spinning Throwable Items | Controller Keystrokes | Debug Screen Beta",
+    "name": "§bSketch§eClient§dV1.7 §cBETA§d",
+    "uuid": "6a071bba-5738-11eb-ae93-0242ac130002",
+    "version": [
+      1,
+      5,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "CS",
+      "type": "resources",
+      "uuid": "46f9860c-116b-45c4-bec1-128cdc4431c2",
+      "version": [
+        1,
+        5,
+        0
+      ]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "cktouch 2",
+      "name": "§bTouchPad Keystrokes { + } §r+ §cDebug Screen\n\n\n§b(§6Controller Required§b)",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "cklstick 2",
+      "name": "§bLeft Stick Keystrokes { -:- } §r+ §cDebug Screen\n\n\n§b(§6Controller Required§b)",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "cktrade 2",
+      "name": "§bTraditional Keystrokes { . : . } §r+ §cDebug Screen\n\n\n§b(§6Controller Required§b)",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "cktouch",
+      "name": "§bTouchPad Keystrokes { + }\n\n\n§b(§6Controller Required§b)",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "cklstick",
+      "name": "§bLeft Stick Keystrokes { -:- }\n\n\n§b(§6Controller Required§b)",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "cktrade",
+      "name": "§bTraditional Keystrokes { . : . }\n\n\n§b(§6Controller Required§b)",
+      "memory_tier": 1
+    }
+  ]
+}

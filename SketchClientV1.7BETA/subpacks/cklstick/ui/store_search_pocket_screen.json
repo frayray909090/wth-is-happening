@@ -1,0 +1,132 @@
+{
+    "namespace": "asp",
+    "hold": {
+        "type": "image",
+        "layer": 0,
+        "fill": true,
+        "size": [ "0%", "0%" ],
+        "alpha": "$t",
+   "$background_hoverstate_texture_swap|default": "",
+    "variables": [
+      {
+        "requires": "$default_state",
+        "$background_hoverstate_texture_swap": "controlc/res/end"
+      },
+      {
+        "requires": "$hover_state",
+        "$background_hoverstate_texture_swap": "controlc/res/beg"
+      },
+      {
+        "requires": "$pressed_state",
+        "$background_hoverstate_texture_swap": "textures/ui/ribbon_bar_text_background_hover"
+      },
+      {
+        "requires": "$locked_state",
+        "$background_hoverstate_texture_swap": "textures/ui/ribbon_bar_text_background_hover"
+      }
+    ],
+    "texture": "$background_hoverstate_texture_swap"
+    },
+    "bottom_middle": {
+        "type": "panel",
+        "size": [ "100%", "100%" ],
+"bindings": [
+      {
+        "binding_name": "#gamepad_helper_visible",
+        "binding_name_override": "#visible"
+      }
+    ],
+        "controls": [
+            {
+                "l@common_buttons.dark_content_button": { // l
+                    "$button_content":"asp.hold",
+                    "$pressed_button_name": "button.slot_0",
+ "$button_active": "#swap_left_active",
+                    "size": [ 20, 20 ],
+      "$focus_id": "leftc", 
+                    "anchor_from": "bottom_right",
+                    "anchor_to": "bottom_right",
+    "focus_change_up": "upc",
+    "focus_change_down": "downc",
+    "focus_change_right": "leftc",
+    "focus_change_left": "rightc",
+                    "offset": [ -50, -15 ],
+                    "layer": 4,
+                    "alpha": "$t"
+                }
+            },
+            {
+                "l@common_buttons.dark_glyph_button": { // d
+                    "$button_content":"asp.hold",
+                    "$pressed_button_name": "button.slot_0",
+                    "size": [ 20, 20 ],
+      "$focus_id": "downc", 
+                    "anchor_from": "bottom_right",
+                    "anchor_to": "bottom_right",
+    "focus_change_down": "downc",
+    "focus_change_right": "leftc",
+    "focus_change_left": "rightc",
+                    "offset": [ -30, -5 ],
+                    "layer": 4,
+                    "alpha": "$t"
+                }
+            },
+            {
+                "s@common_buttons.dark_glyph_button": { // s
+                    "$button_content":"Unused",
+                    "$pressed_button_name": "button.slot_0",
+                    "size": [ 0, 0 ],
+      "$focus_id": "spacec", 
+                    "anchor_from": "bottom_right",
+                    "anchor_to": "bottom_right",
+    "focus_change_down": "downc",
+    "focus_change_right": "leftc",
+    "focus_change_left": "rightc",
+                    "offset": [ 100, -75 ],
+                    "layer": 4,
+                    "alpha": "0.01"
+                }
+            },
+            {
+               "r@common_buttons.dark_glyph_button": { // u
+                    "$button_content":"asp.hold",
+                    "$pressed_button_name": "button.slot_0",
+                    "size": [ 20, 20 ],
+      "$focus_id": "upc", 
+                    "anchor_from": "bottom_right",
+                    "anchor_to": "bottom_right",
+    "focus_change_right": "leftc",
+    "focus_change_up": "upc",
+    "focus_change_left": "rightc",
+                    "offset": [ -30, -25 ],
+                    "layer": 4,
+                    "alpha": "$t",
+"button_mappings": [
+{
+"from_button_id": "button.is_hovered",
+"to_button_id": "button.menu_select",
+"mapping_type": "hovered"
+}
+]
+                }
+            },
+            {
+                "r@common_buttons.dark_content_button": { // r
+                    "$button_content":"asp.hold",
+                    "$pressed_button_name": "button.slot_0",
+                    "size": [ 20, 20 ],
+      "$focus_id": "rightc", 
+                    "anchor_from": "bottom_right",
+                    "anchor_to": "bottom_right",
+    "focus_change_up": "upc",
+    "focus_change_down": "downc",
+    "focus_change_left": "rightc",
+    "focus_change_right": "leftc",
+                    "offset": [ -10, -15 ],
+                    "layer": 4,
+                    "alpha": "$t"
+                }
+            }
+            ]
+    }
+}
