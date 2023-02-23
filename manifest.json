@@ -5,8 +5,8 @@
       0,
       1
     ],
-    "name" : "Skin Pack 24",
-    "uuid" : "034FEBDF-0065-4A91-8B22-BF1E4A01F511"
+    "name" : "hello you dumb pak",
+    "uuid" : "f345a1d6-8859-4795-a673-29a83117eb05"
   },
   "modules" : [
     {
@@ -16,7 +16,7 @@
         1
       ],
       "type" : "skin_pack",
-      "uuid" : "98E094B9-F2D6-4BBC-9C2A-A86E8608E7F0"
+      "uuid" : "5ffa4ee4-cc35-4b46-84b1-1d838561bd53"
     }
   ],
   "format_version" : 1

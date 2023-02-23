@@ -1,12 +1,12 @@
 {
-  "serialize_name" : "Skin Pack 24",
-  "localization_name" : "Skin Pack 24",
+  "serialize_name" : "hello you dumb pak",
+  "localization_name" : "hello you dumb pak",
   "skins" : [
     {
-      "texture" : "skin0.png",
+      "texture" : "skin2.png",
       "type" : "free",
       "geometry" : "geometry.humanoid.custom",
-      "localization_name" : "skin0"
+      "localization_name" : "skin2"
     }
   ]
 }
