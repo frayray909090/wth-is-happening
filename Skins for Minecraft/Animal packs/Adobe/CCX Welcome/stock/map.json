@@ -1,0 +1,59 @@
+{
+  "version": 3,
+  "versionInfo": {
+    "undefined": {
+      "IDSN": {
+        "en_US": {
+          "pendingId": "IDSN-15.1.2-en_US-c0043067-082b-49a8-bc71-53a0340b22df"
+        }
+      },
+      "ILST": {
+        "en_US": {
+          "pendingId": "ILST-24.3-en_US-a152dd85-cf2c-4cc0-8799-19a773cbd130"
+        }
+      },
+      "PHXS": {
+        "en_US": {
+          "pendingId": "PHXS-21.2.3-en_US-14405191-5301-40a4-8439-a9205346aca0"
+        }
+      }
+    }
+  },
+  "metadata": {
+    "IDSN-15.1.2-en_US-c0043067-082b-49a8-bc71-53a0340b22df": {
+      "expiryTime": "2021-01-22T19:35:07.000Z",
+      "lastUseTime": "2021-01-22T18:24:10.300Z",
+      "cause": "Unknown",
+      "params": {
+        "productCode": "IDSN",
+        "productVersion": "15.1.2",
+        "productLanguage": "en_US",
+        "countryCode": "US"
+      }
+    },
+    "ILST-24.3-en_US-a152dd85-cf2c-4cc0-8799-19a773cbd130": {
+      "expiryTime": "2021-01-22T19:35:07.000Z",
+      "lastUseTime": "2021-01-22T18:24:10.300Z",
+      "cause": "Unknown",
+      "params": {
+        "productCode": "ILST",
+        "productVersion": "24.3",
+        "productLanguage": "en_US",
+        "countryCode": "US"
+      }
+    },
+    "PHXS-21.2.3-en_US-14405191-5301-40a4-8439-a9205346aca0": {
+      "expiryTime": "2021-01-22T19:35:07.000Z",
+      "lastUseTime": "2021-01-22T18:24:10.301Z",
+      "cause": "Unknown",
+      "params": {
+        "productCode": "PHXS",
+        "productVersion": "21.2.3",
+        "productLanguage": "en_US",
+        "countryCode": "US"
+      }
+    }
+  },
+  "assetMetadata": {},
+  "usersInfo": {}
+}

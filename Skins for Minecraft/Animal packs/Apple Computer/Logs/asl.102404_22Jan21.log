@@ -1,0 +1,61 @@
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] 
+	======================
+	 APSDaemon.exe begins
+	======================
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] parent process: 3188 "runonce.exe"
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] main thread 9628
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] command line: "C:\Program Files (x86)\Common Files\Apple\Apple Application Support\APSDaemon.exe" 
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] ADSKFLEX_LICENSE_FILE=2080@csssvcs2.sd27.bc.ca
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] ALLUSERSPROFILE=C:\ProgramData
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] APPDATA=C:\Users\linden.smithson\AppData\Roaming
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] CommonProgramFiles=C:\Program Files (x86)\Common Files
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] CommonProgramW6432=C:\Program Files\Common Files
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] COMPUTERNAME=CSS-149-10
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] ComSpec=C:\windows\system32\cmd.exe
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] DFS=CSSDFS2
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] DriverData=C:\Windows\System32\Drivers\DriverData
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] FPS_BROWSER_USER_PROFILE_STRING=Default
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] HOMEDRIVE=H:
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] HOMEPATH=\
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] HOMESHARE=\\cssdfs2\sd27students-lcs\linden.smithson
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] LOCALAPPDATA=C:\Users\linden.smithson\AppData\Local
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] LOGONSERVER=\\CSSAD2
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] NUMBER_OF_PROCESSORS=4
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] OS=Windows_NT
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] Path=C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Users\linden.smithson\AppData\Local\Microsoft\WindowsApps;
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] PowerMgrPath=C:\Program Files (x86)\Lenovo\PowerMgr
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] PRINTSERVER=CSSSVCS2
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] PROCESSOR_ARCHITECTURE=x86
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] PROCESSOR_ARCHITEW6432=AMD64
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] PROCESSOR_LEVEL=6
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] PROCESSOR_REVISION=2a07
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] ProgramData=C:\ProgramData
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] ProgramFiles=C:\Program Files (x86)
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] ProgramFiles(x86)=C:\Program Files (x86)
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] ProgramW6432=C:\Program Files
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] PUBLIC=C:\Users\Public
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] SESSIONNAME=Console
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] SITECODE=CSS
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] SITEGRP=SECONDARY
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] SPATH=\\sd27.bc.ca\sd27files\scripts
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] SystemDrive=C:
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] SystemRoot=C:\windows
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] TEMP=C:\Users\LINDEN~1.SMI\AppData\Local\Temp
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] TMP=C:\Users\LINDEN~1.SMI\AppData\Local\Temp
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] USERDNSDOMAIN=SD27.BC.CA
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] USERDOMAIN=SD27
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] USERDOMAIN_ROAMINGPROFILE=SD27
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] USERGRP=STUDENT
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] USERNAME=linden.smithson
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] USERPROFILE=C:\Users\linden.smithson
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] windir=C:\windows
+[6512 @ Fri Jan 22 10:24:04 2021] [YSLoader APSDaemon.exe] WSUS=csswsus1
+[6512 @ Fri Jan 22 10:24:10 2021] [YSLoader APSDaemon.exe] 
+	====================
+	 APSDaemon.exe ends
+	====================

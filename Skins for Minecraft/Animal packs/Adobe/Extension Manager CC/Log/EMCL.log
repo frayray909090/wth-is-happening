@@ -1,0 +1,3 @@
+﻿01/22/21 10:24:06:269 | [ERROR] |  | exchangeplugin | EMCL |  |  |  | 9016 | CExtensionManager::updateXManConfigFromCode: Can not find XManConfig
+01/22/21 10:24:06:332 | [ERROR] |  | exchangeplugin | EMCL |  |  |  | 9016 | CExtensionManager::updateXManConfigFromCode: Can not find XManConfig
+01/22/21 10:24:07:005 | [ERROR] |  | exchangeplugin | EMCL |  |  |  | 11776 | Access denied when deleting "C:\ProgramData\Adobe\Extension Manager CC\Configuration\XManConfigV2.xml": Access to file denied: C:\ProgramData\Adobe\Extension Manager CC\Configuration\XManConfigV2.xml

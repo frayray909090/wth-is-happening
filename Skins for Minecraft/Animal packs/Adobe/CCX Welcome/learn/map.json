@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "versionInfo": {
+    "undefined": {
+      "AEFT": {
+        "17": {
+          "en_US": {
+            "pendingId": "AEFT-17.1.4-en_US-28c8d668-e222-43da-ba1c-601da43be840"
+          }
+        }
+      },
+      "DRWV": {
+        "20": {
+          "en_US": {
+            "pendingId": "DRWV-20.2-en_US-98e8da2f-1fe4-4c3b-b68e-4f5af3d8f3d9"
+          }
+        }
+      },
+      "FLPR": {
+        "20": {
+          "en_US": {
+            "pendingId": "FLPR-20.5.1-en_US-7b4bff50-f2a1-4b52-9ec4-f106d4bcf1b4"
+          }
+        }
+      },
+      "IDSN": {
+        "15": {
+          "en_US": {
+            "pendingId": "IDSN-15.1.2-en_US-a136fac7-2ad5-4644-b914-b24dd5eb5ac4"
+          }
+        }
+      },
+      "ILST": {
+        "24": {
+          "en_US": {
+            "pendingId": "ILST-24.3-en_US-057d79d1-1a41-40ae-a8a9-d8ce05252898"
+          }
+        }
+      },
+      "PHXS": {
+        "21": {
+          "en_US": {
+            "pendingId": "PHXS-21.2.3-en_US-a9124817-daa0-46f1-a132-88616102a93e"
+          }
+        }
+      },
+      "PPRO": {
+        "14": {
+          "en_US": {
+            "pendingId": "PPRO-14.4-en_US-506d10b6-9152-4186-a916-296a4344095c"
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "AEFT-17.1.4-en_US-28c8d668-e222-43da-ba1c-601da43be840": {
+      "expiryTime": "2021-01-22T19:19:27.000Z",
+      "lastUseTime": "2021-01-22T18:24:10.302Z",
+      "cause": "Unknown",
+      "params": {
+        "productCode": "AEFT",
+        "productVersion": "17.1.4",
+        "productLanguage": "en_US",
+        "countryCode": "US",
+        "ccxVersion": "2.13.0.14"
+      }
+    },
+    "DRWV-20.2-en_US-98e8da2f-1fe4-4c3b-b68e-4f5af3d8f3d9": {
+      "expiryTime": "2021-01-22T19:19:27.000Z",
+      "lastUseTime": "2021-01-22T18:24:10.302Z",
+      "cause": "Unknown",
+      "params": {
+        "productCode": "DRWV",
+        "productVersion": "20.2",
+        "productLanguage": "en_US",
+        "countryCode": "US",
+        "ccxVersion": "2.7.2.14"
+      }
+    },
+    "FLPR-20.5.1-en_US-7b4bff50-f2a1-4b52-9ec4-f106d4bcf1b4": {
+      "expiryTime": "2021-01-22T19:19:27.000Z",
+      "lastUseTime": "2021-01-22T18:24:10.304Z",
+      "cause": "Unknown",
+      "params": {
+        "productCode": "FLPR",
+        "productVersion": "20.5.1",
+        "productLanguage": "en_US",
+        "countryCode": "US",
+        "ccxVersion": "3.6.0.50"
+      }
+    },
+    "IDSN-15.1.2-en_US-a136fac7-2ad5-4644-b914-b24dd5eb5ac4": {
+      "expiryTime": "2021-01-22T19:19:27.000Z",
+      "lastUseTime": "2021-01-22T18:24:10.304Z",
+      "cause": "Unknown",
+      "params": {
+        "productCode": "IDSN",
+        "productVersion": "15.1.2",
+        "productLanguage": "en_US",
+        "countryCode": "US",
+        "ccxVersion": "2.13.0.14"
+      }
+    },
+    "ILST-24.3-en_US-057d79d1-1a41-40ae-a8a9-d8ce05252898": {
+      "expiryTime": "2021-01-22T19:19:27.000Z",
+      "lastUseTime": "2021-01-22T18:24:10.304Z",
+      "cause": "Unknown",
+      "params": {
+        "productCode": "ILST",
+        "productVersion": "24.3",
+        "productLanguage": "en_US",
+        "countryCode": "US",
+        "ccxVersion": "3.6.0.50"
+      }
+    },
+    "PHXS-21.2.3-en_US-a9124817-daa0-46f1-a132-88616102a93e": {
+      "expiryTime": "2021-01-22T19:19:27.000Z",
+      "lastUseTime": "2021-01-22T18:24:10.307Z",
+      "cause": "Unknown",
+      "params": {
+        "productCode": "PHXS",
+        "productVersion": "21.2.3",
+        "productLanguage": "en_US",
+        "countryCode": "US",
+        "ccxVersion": "3.6.0.50"
+      }
+    },
+    "PPRO-14.4-en_US-506d10b6-9152-4186-a916-296a4344095c": {
+      "expiryTime": "2021-01-22T19:19:27.000Z",
+      "lastUseTime": "2021-01-22T18:24:10.307Z",
+      "cause": "Unknown",
+      "params": {
+        "productCode": "PPRO",
+        "productVersion": "14.4",
+        "productLanguage": "en_US",
+        "countryCode": "US",
+        "ccxVersion": "2.13.0.14"
+      }
+    }
+  },
+  "assetMetadata": {},
+  "usersInfo": {}
+}

@@ -1,0 +1,23 @@
+{
+    "product_data": {
+        "product&release&master&build": {
+            "product_build_id": "build",
+            "product_id": "product&release&master&build",
+            "product_id_provider": "upi1",
+            "product_line_name": "product",
+            "product_master_id": "master",
+            "product_name": "productrelease",
+            "product_release_id": "release"
+        }
+    },
+    "session_data": {
+        "4828": {
+            "session_list": {
+                "41766e1a-3e95-48fb-9073-08730103d391": {
+                    "product_id": "product&release&master&build",
+                    "start_time": 1611339849591466496
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "versionInfo": {
+    "undefined": {
+      "en_US": {
+        "pendingId": "en_US-8d492e4e-dd5d-40c3-8480-ea555d698787"
+      }
+    }
+  },
+  "metadata": {
+    "en_US-8d492e4e-dd5d-40c3-8480-ea555d698787": {
+      "expiryTime": "2021-01-22T19:30:49.000Z",
+      "lastUseTime": "2021-01-22T18:24:10.308Z",
+      "cause": "Unknown",
+      "params": {
+        "surfaceId": [
+          "ACCC_ALL_APPS_BANNERS",
+          "ACCC_CATEGORIES_BANNERS",
+          "ACCC_APPS_CATALOG",
+          "ACCC_APP_SKELETON"
+        ],
+        "productLanguage": "en_US",
+        "productVersion": "5.2.1",
+        "osVersion": "10.0.18363",
+        "countryCode": "US"
+      }
+    }
+  },
+  "assetMetadata": {},
+  "usersInfo": {}
+}
