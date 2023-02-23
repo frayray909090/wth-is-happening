@@ -1,0 +1,6 @@
+primaryconsumers   (herbivores)
+secondaryconsumers (carnivores)
+detritusfeeder     (insects & worms)
+scavengers         (vulture)
+producers          (greenplants)
+decomposers        (fungi & bacteria)

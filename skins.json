@@ -1,0 +1,12 @@
+{
+  "serialize_name" : "Skin Pack 24",
+  "localization_name" : "Skin Pack 24",
+  "skins" : [
+    {
+      "texture" : "skin0.png",
+      "type" : "free",
+      "geometry" : "geometry.humanoid.custom",
+      "localization_name" : "skin0"
+    }
+  ]
+}

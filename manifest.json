@@ -1,0 +1,23 @@
+{
+  "header" : {
+    "version" : [
+      0,
+      0,
+      1
+    ],
+    "name" : "Skin Pack 24",
+    "uuid" : "034FEBDF-0065-4A91-8B22-BF1E4A01F511"
+  },
+  "modules" : [
+    {
+      "version" : [
+        0,
+        0,
+        1
+      ],
+      "type" : "skin_pack",
+      "uuid" : "98E094B9-F2D6-4BBC-9C2A-A86E8608E7F0"
+    }
+  ],
+  "format_version" : 1
+}

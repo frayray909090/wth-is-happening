@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Store_WPF</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Home.PNG" />
+    <None Remove="Malware or Exploit or bugs.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Home.PNG" />
+    <Resource Include="Malware or Exploit or bugs.png" />
+  </ItemGroup>
+
+</Project>
